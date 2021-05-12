@@ -1,5 +1,6 @@
 # My Responsive Portfolio Website
 I have made a good start in developing my own portfolio website that will be responsive.
+https://vanessatsang888.github.io/responsivePortfolioSite/#
 
 
 ## About
@@ -9,5 +10,7 @@ When I have completed this protfolio website, it will have multiple pages such a
 
 ### The Purpose
 The purpose of developing my own portfolio website is to upskill on various frontend development languages and framework.
+
 #### How To Run This Web App Locally
 Simply double click on the: **index.html** (homepage) file and this will launch my web app in your deafult browser.
+https://vanessatsang888.github.io/responsivePortfolioSite/#
