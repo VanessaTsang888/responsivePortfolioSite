@@ -88,7 +88,8 @@ $(document).ready(function() {
 		}
 	});
 
-$("#filters a").click(function() {
+$("#filters a").click(function(e) {
+	e.preventDefault()
 
 	$("#filters .current").removeClass("current");
 	$(this).addClass("current");
