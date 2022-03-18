@@ -1,7 +1,9 @@
 # My Responsive Portfolio Website
 
 [Vanessa's Responsive Portfolio Website](https://vanessatsang888.github.io/responsivePortfolioSite/#)
-I have made a good start in developing my own portfolio website that will be responsive. This is one of my personal projects that I have been working on around my day job within UI Development on various government project. Please note that due to the industry of my commercial work (government projects) most are forbidden from being published on the public domain. Therefore, I am only able to publish my personal projects and any software applications I have developed from my online training courses. However, in the near future, I will be able to show case one of my commerical project which is a public facing and dynamic portal application that allows users to apply for a government grant online reducing most of the paperwork and reducing climate change. On this project, I used React.js to write reusable Components, and Redux to manage the states and to write and store dummy data. Used Jest Snapshot testing (a Javascript testing library) to test my Components (with the React testing library).
+This responsive portfolio website is one of my personal projects that I have been working on around my day job as a UI Software Engineer on various government projects.
+Please note that I have NOT published any of my commercial projects within my software enginnering work as they of sensitive nature (government/defence/national security projects) and the NDA's I have signed to start a project. However, in the near future, I will be able to show case one of the commercial project that I've worked on as this is a public facing and dynamic portal application that allows users to apply for a government grant online efficiently, reducing most of the paperwork for the customer and better control of the 'climate change issue' that the whole world is currently facing.
+On this project, I used React.js to write reusable and clean Components, Redux to manage the states, to write and store dummy data. Also, used Jest Snapshot testing (a Javascript testing library) to test my Components (with the React testing library) - test cases with high coverage rate.
 
 ## About
 
@@ -11,8 +13,8 @@ When I have completed this protfolio website, it will have multiple pages such a
 
 ### The Purpose
 
-The purpose of developing my own portfolio website is to upskill on various frontend development languages, framework and tools. Also to showcase my UI development, website development skills.
-However, I am looking to develop my brand new responsive portfolio website in the near future. For this new personal project, I will be using React.js to develop the resuable and clean Components, and TypeScript for type safety.
+The purpose of developing my own portfolio website is to upskill on various frontend development languages, framework and tools. Also to showcase my UI development, website development skills without publishing any of my sensitive commercial work - NDA agreement signed.
+However, I am looking to develop my brand new responsive portfolio website in the near future. For this new personal project, I will be using React.js to write the resuable and clean Components, and TypeScript for type safety.
 
 #### How To Run This Web App Locally
 
